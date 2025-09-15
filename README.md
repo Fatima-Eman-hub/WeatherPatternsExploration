@@ -33,3 +33,7 @@ The goal is to uncover insights into changing weather patterns using Python and 
 1. Clone this repo:
    ```bash
    git clone https://github.com/Fatima-Eman-hub/WeatherPatternsExploration.git
+
+
+🌍 Live Demo
+https://fatima-eman-hub.github.io/WeatherPatternsExploration/
